@@ -6,7 +6,6 @@ Code for Structural-Functional Transition in Glaucoma Assessment Challenge 2023 
 
 ## Preparing
 1. Clone this repo:
-
 ```bash
 git clone https://github.com/Chen-Ziyang/STAGE2023.git
 cd STAGE2023
@@ -15,6 +14,8 @@ cd STAGE2023
    which can be found in this [Google Drive Link](https://drive.google.com/file/d/1vmMkYn_XBk_FQFJmYx6ZsoGtEfOClVpS/view?usp=drive_link).
 
 3. Download the dataset from the [official website](https://aistudio.baidu.com/competition/detail/968/0/datasets).
+
+4. Create the experimental environment in your own way or download ours from this [Google Drive Link](https://drive.google.com/file/d/1kVg5-zIXz09dSliTTKs3QtvMA80-Afmb/view?usp=drive_link).
  
 ## Training
 1. Task 1: Prediction of Mean Deviation
