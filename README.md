@@ -1,5 +1,5 @@
-# STAGE2023
-Code for Structural-Functional Transition in Glaucoma Assessment Challenge 2023 (STAGE2023-2nd)
+# STAGE 2023 (2nd Award)
+Code for Structural-Functional Transition in Glaucoma Assessment Challenge 2023 (STAGE 2023)
 <p align="center">
     <img src="imgs/Award.jpeg"/> <br />
 </p>
