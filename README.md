@@ -15,7 +15,7 @@ cd STAGE2023
 
 3. Download the dataset from the [official website](https://aistudio.baidu.com/competition/detail/968/0/datasets).
 
-4. Create the experimental environment in your own way or download ours from this [Google Drive Link](https://drive.google.com/file/d/1kVg5-zIXz09dSliTTKs3QtvMA80-Afmb/view?usp=drive_link).
+4. Create the experimental environment in your own way or download ours from this [Google Drive Link](https://drive.google.com/file/d/1vAEyFrJ_wLiLwNJfBTg6J-wC9CbzCLmn/view?usp=sharing).
  
 ## Training
 1. Task 1: Prediction of Mean Deviation
